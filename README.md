@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/leannesmith2116/1b6f193a-d681-4fa8-bc52-f71327fcd169/67567d06-1888-4a5c-953b-427eef5b8c7b/_apis/work/boardbadge/13359c35-f7b5-4831-9993-14b79d04d083)](https://dev.azure.com/leannesmith2116/1b6f193a-d681-4fa8-bc52-f71327fcd169/_boards/board/t/67567d06-1888-4a5c-953b-427eef5b8c7b/Microsoft.RequirementCategory)
 ### Hi there 👋
 
 <!--
